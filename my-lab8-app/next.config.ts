@@ -1,12 +1,5 @@
-// next.config.ts
 import type { NextConfig } from "next";
 
-const nextConfig: NextConfig = {
-  experimental: {
-    turbo: {
-      root: __dirname,
-    },
-  },
-};
+const nextConfig: NextConfig = {};
 
 export default nextConfig;
