@@ -33,10 +33,10 @@ export default function Home() {
 				<div>
 					<h2 style={{ marginBottom: "12px", fontSize: "1.2rem" }}>Completed Labs</h2>
 					<ul style={{ margin: 0, paddingLeft: "20px", lineHeight: 1.8 }}>
-						<li>Docker</li>
-						<li>LocalStack</li>
-						<li>Terraform</li>
-						<li>Vercel</li>
+						<li>✅ Docker</li>
+						<li>✅ LocalStack</li>
+						<li>✅ Terraform</li>
+						<li>✅ Vercel</li>
 					</ul>
 				</div>
 			</section>
